@@ -4,3 +4,10 @@ It is a CMU based approach to Yoga Pose Correction in CVPR technology
 Followed https://github.com/ildoonet/tf-pose-estimation and did changes respectively as per the requirements.
 
 Sample: [Download](DEMOvideo.mkv) Demo of this Project to know more.
+
+
+## Architectural diagram
+![Unable to load image](Architectural%20diagram.png)
+
+## Presentation
+![Unable to load image](Presentation.pdf)
